@@ -7,9 +7,8 @@ namespace blank.Tools
     {
 
         #region 获取Cookie
-
         /// <summary>
-        /// 获得Cookie的值
+        /// 获得Cookie的值888888
         /// </summary>
         /// <param name="cookieName"></param>
         /// <returns></returns>
